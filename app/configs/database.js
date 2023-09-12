@@ -1,6 +1,7 @@
 module.exports = {
-    usename: 'vantrinh',
-    password: 'trinh123',
-    database: 'project',
-    col_items: 'items'
-}
+  usename: "vantrinh",
+  password: "trinh123",
+  database: "project",
+  col_items: "items",
+  col_user: "users",
+};
